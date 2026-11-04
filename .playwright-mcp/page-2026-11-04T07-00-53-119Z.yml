@@ -1,0 +1,560 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: Your first week is free · New members only
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "FORMA Athletic Club, home" [ref=e5] [cursor=pointer]:
+        - /url: http://forma.test/
+        - text: FORMA
+      - button "Menu" [ref=e7] [cursor=pointer]
+  - link "Skip to content" [ref=e10] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e11]:
+    - region [ref=e15]:
+      - img "Athlete mid-lift under a single warm light in a dark gym" [ref=e17]
+      - generic [ref=e19]:
+        - paragraph [ref=e20]: Boutique training club · East Austin
+        - heading [level=1] [ref=e21]:
+          - text: Train with
+          - emphasis [ref=e22]: intent.
+        - generic [ref=e23]:
+          - paragraph [ref=e24]: Coached strength, conditioning and boxing classes capped at 14 people. Real programming, real coaching, no crowded floor.
+          - generic [ref=e25]:
+            - link "Book Free Trial →" [ref=e26] [cursor=pointer]:
+              - /url: "#trial"
+            - link "View Schedule" [ref=e27] [cursor=pointer]:
+              - /url: "#schedule"
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: "4.9"
+            - generic [ref=e31]: ★★★★★ 380 Google reviews
+          - generic [ref=e32]:
+            - generic [ref=e33]: 1,200+
+            - generic [ref=e34]: Active members
+          - generic [ref=e35]:
+            - generic [ref=e36]: 60+
+            - generic [ref=e37]: Coached classes per week
+          - generic [ref=e38]:
+            - generic [ref=e39]: "14"
+            - generic [ref=e40]: Max people per class
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]: Strength ◆
+        - generic [ref=e48]: Conditioning ◆
+        - generic [ref=e49]: Boxing ◆
+        - generic [ref=e50]: Mobility ◆
+        - generic [ref=e51]: Recovery ◆
+        - generic [ref=e52]: Open Gym ◆
+      - generic [ref=e53]:
+        - generic [ref=e54]: Strength ◆
+        - generic [ref=e55]: Conditioning ◆
+        - generic [ref=e56]: Boxing ◆
+        - generic [ref=e57]: Mobility ◆
+        - generic [ref=e58]: Recovery ◆
+        - generic [ref=e59]: Open Gym ◆
+    - region [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - paragraph [ref=e67]: The FORMA method
+            - heading "Not a gym. A training club." [level=2] [ref=e68]
+            - paragraph [ref=e69]: Big-box gyms give you equipment and leave you alone. We give you a coach, a plan and a room full of people who show up. Every session is programmed in 6-week blocks so you always know what you are building toward.
+          - img "Coach cueing a member on squat form" [ref=e71]
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - text: "01"
+            - heading "Capped at 14" [level=3] [ref=e74]
+            - paragraph [ref=e75]: Small enough that your coach sees every rep and knows your name by week two.
+          - listitem [ref=e76]:
+            - text: "02"
+            - heading "Coached, always" [level=3] [ref=e77]
+            - paragraph [ref=e78]: No class runs without a certified coach on the floor. Scaling options for every movement.
+          - listitem [ref=e79]:
+            - text: "03"
+            - heading "Measured progress" [level=3] [ref=e80]
+            - paragraph [ref=e81]: Benchmark tests every 6 weeks, logged in the app, so progress is something you can see.
+    - region [ref=e85]:
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - paragraph [ref=e89]: Programs
+            - heading "Four ways to train." [level=2] [ref=e90]
+          - paragraph [ref=e91]: Mix any class on an unlimited membership. Most members combine two strength sessions with one conditioning and one recovery each week.
+        - generic [ref=e92]:
+          - tablist "Programs" [ref=e93]:
+            - tab "Strength" [selected] [ref=e94] [cursor=pointer]
+            - tab "Conditioning" [ref=e95] [cursor=pointer]
+            - tab "Boxing" [ref=e96] [cursor=pointer]
+            - tab "Recovery" [ref=e97] [cursor=pointer]
+          - tabpanel "Strength" [ref=e99]:
+            - img "Members in a barbell strength class" [ref=e101]
+            - generic [ref=e102]:
+              - heading "Strength" [level=3] [ref=e103]
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Duration
+                  - text: 60 min
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Level
+                  - text: All
+                - generic [ref=e109]:
+                  - generic [ref=e110]: Intensity
+                  - img "Intensity 4 of 5" [ref=e111]
+              - paragraph [ref=e117]: Barbell-based progressive overload. Squat, hinge, press and pull, programmed in 6-week blocks with a test week at the end.
+              - list [ref=e118]:
+                - listitem [ref=e119]: Coached warm-up and movement prep
+                - listitem [ref=e120]: Main lift with individual load targets
+                - listitem [ref=e121]: Accessory superset and core finisher
+              - link "Try a Strength class" [ref=e122] [cursor=pointer]:
+                - /url: "#trial"
+    - region [ref=e126]:
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - paragraph [ref=e130]: The space
+            - heading "10,000 sq ft built to train." [level=2] [ref=e131]
+          - paragraph [ref=e132]: Competition-grade equipment, a dedicated boxing room and a recovery suite. Everything you need, nothing you will never use.
+        - generic [ref=e133]:
+          - figure "Strength floor 12 racks, calibrated plates, platforms 01" [ref=e134]:
+            - img "Main strength floor with racks and platforms" [ref=e135]
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - heading "Strength floor" [level=3] [ref=e138]
+                - generic [ref=e139]: 12 racks, calibrated plates, platforms
+              - generic [ref=e140]: "01"
+          - figure "Turf lane 25 m turf, sleds, prowlers 02" [ref=e141]:
+            - img "Turf lane with sleds" [ref=e142]
+            - generic [ref=e143]:
+              - generic [ref=e144]:
+                - heading "Turf lane" [level=3] [ref=e145]
+                - generic [ref=e146]: 25 m turf, sleds, prowlers
+              - generic [ref=e147]: "02"
+          - figure "Boxing room 16 heavy bags 03" [ref=e148]:
+            - img "Boxing room with heavy bags" [ref=e149]
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - heading "Boxing room" [level=3] [ref=e152]
+                - generic [ref=e153]: 16 heavy bags
+              - generic [ref=e154]: "03"
+          - figure "Recovery Sauna & cold plunge 04" [ref=e155]:
+            - img "Sauna and cold plunge recovery suite" [ref=e156]
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - heading "Recovery" [level=3] [ref=e159]
+                - generic [ref=e160]: Sauna & cold plunge
+              - generic [ref=e161]: "04"
+        - generic [ref=e162]:
+          - generic [ref=e163]: Open Mon to Fri 5:30 AM to 10 PM, Sat to Sun 7 AM to 6 PM
+          - generic [ref=e164]: Included Towels, lockers, showers, filtered water
+          - generic [ref=e165]: Parking Free member lot and bike racks
+    - region [ref=e169]:
+      - generic [ref=e170]:
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - paragraph [ref=e173]: Weekly schedule
+            - heading "Find your class." [level=2] [ref=e174]
+          - paragraph [ref=e175]: Classes run from 5:30 AM. Book up to 7 days ahead in the FORMA app. Spots update in real time.
+        - generic [ref=e176]:
+          - group "Filter by day" [ref=e177]:
+            - button "Mon 2" [ref=e178] [cursor=pointer]:
+              - generic [ref=e179]: Mon
+              - text: "2"
+            - button "Tue 3" [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]: Tue
+              - text: "3"
+            - button "Wed 4" [pressed] [ref=e182] [cursor=pointer]:
+              - generic [ref=e183]: Wed
+              - text: "4"
+            - button "Thu 5" [ref=e184] [cursor=pointer]:
+              - generic [ref=e185]: Thu
+              - text: "5"
+            - button "Fri 6" [ref=e186] [cursor=pointer]:
+              - generic [ref=e187]: Fri
+              - text: "6"
+            - button "Sat 7" [ref=e188] [cursor=pointer]:
+              - generic [ref=e189]: Sat
+              - text: "7"
+            - button "Sun 8" [ref=e190] [cursor=pointer]:
+              - generic [ref=e191]: Sun
+              - text: "8"
+          - group "Filter by program" [ref=e192]:
+            - button "All" [pressed] [ref=e193] [cursor=pointer]
+            - button "Strength" [ref=e194] [cursor=pointer]
+            - button "Conditioning" [ref=e195] [cursor=pointer]
+            - button "Boxing" [ref=e196] [cursor=pointer]
+            - button "Recovery" [ref=e197] [cursor=pointer]
+        - list [ref=e199]:
+          - text: ▲ ■ ▲ ▲ ▲ ▲ ▲
+          - listitem [ref=e200]:
+            - generic [ref=e201]:
+              - text: 5:30
+              - generic [ref=e202]: AM · 60 min
+            - generic [ref=e203]:
+              - generic [ref=e204]: Squat Block, Week 3
+              - generic [ref=e205]: Strength
+            - 'link "Book: Squat Block, Week 3 Wed 5:30AM" [ref=e206] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - listitem [ref=e207]:
+            - generic [ref=e208]:
+              - text: 6:30
+              - generic [ref=e209]: AM · 45 min
+            - generic [ref=e210]:
+              - generic [ref=e211]: Engine Intervals
+              - generic [ref=e212]: Conditioning
+            - text: ■
+            - 'link "Waitlist: Engine Intervals Wed 6:30AM" [ref=e213] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Waitlist
+          - listitem [ref=e214]:
+            - generic [ref=e215]:
+              - text: 7:30
+              - generic [ref=e216]: AM · 50 min
+            - generic [ref=e217]:
+              - generic [ref=e218]: Fundamentals
+              - generic [ref=e219]: Boxing
+            - 'link "Book: Fundamentals Wed 7:30AM" [ref=e220] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - listitem [ref=e221]:
+            - generic [ref=e222]:
+              - text: 12:00
+              - generic [ref=e223]: PM · 60 min
+            - generic [ref=e224]:
+              - generic [ref=e225]: Press & Pull
+              - generic [ref=e226]: Strength
+            - 'link "Book: Press & Pull Wed 12:00PM" [ref=e227] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - listitem [ref=e228]:
+            - generic [ref=e229]:
+              - text: 5:30
+              - generic [ref=e230]: PM · 45 min
+            - generic [ref=e231]:
+              - generic [ref=e232]: Sled & Row
+              - generic [ref=e233]: Conditioning
+            - text: ▲
+            - 'link "Book: Sled & Row Wed 5:30PM" [ref=e234] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - listitem [ref=e235]:
+            - generic [ref=e236]:
+              - text: 6:30
+              - generic [ref=e237]: PM · 50 min
+            - generic [ref=e238]:
+              - generic [ref=e239]: Combos & Bag Rounds
+              - generic [ref=e240]: Boxing
+            - 'link "Book: Combos & Bag Rounds Wed 6:30PM" [ref=e241] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - listitem [ref=e242]:
+            - generic [ref=e243]:
+              - text: 7:30
+              - generic [ref=e244]: PM · 40 min
+            - generic [ref=e245]:
+              - generic [ref=e246]: Mobility + Contrast
+              - generic [ref=e247]: Recovery
+            - 'link "Book: Mobility + Contrast Wed 7:30PM" [ref=e248] [cursor=pointer]':
+              - /url: "#trial"
+              - text: Book
+          - text: ▲ ■ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+        - generic [ref=e249]:
+          - generic [ref=e250]: All classes are coached. Arrive 10 minutes early for your first visit.
+          - link "Download the full monthly timetable" [ref=e251] [cursor=pointer]:
+            - /url: "#trial"
+    - region [ref=e255]:
+      - generic [ref=e256]:
+        - img "Head coach in a wide dramatic shot" [ref=e258]
+        - generic [ref=e260]:
+          - paragraph [ref=e261]: Coaching team
+          - heading "Coaches who actually coach." [level=2] [ref=e262]
+          - paragraph [ref=e263]: Every FORMA coach holds a national certification, completes our in-house coaching program and keeps learning every quarter.
+      - generic [ref=e264]:
+        - article [ref=e265]:
+          - generic [ref=e268]:
+            - heading "Marcus Hale" [level=3] [ref=e269]
+            - paragraph [ref=e270]: Head Coach, Strength
+            - paragraph [ref=e271]: Builds the strength blocks and runs the coaching program.
+            - list [ref=e272]:
+              - listitem [ref=e273]: NSCA-CSCS
+              - listitem [ref=e274]: 12 yrs
+        - article [ref=e275]:
+          - generic [ref=e278]:
+            - heading "Dani Reyes" [level=3] [ref=e279]
+            - paragraph [ref=e280]: Conditioning Lead
+            - paragraph [ref=e281]: Designs interval sessions that scale to every fitness level.
+            - list [ref=e282]:
+              - listitem [ref=e283]: NASM-CPT
+              - listitem [ref=e284]: 8 yrs
+        - article [ref=e285]:
+          - generic [ref=e288]:
+            - heading "Theo Grant" [level=3] [ref=e289]
+            - paragraph [ref=e290]: Boxing Coach
+            - paragraph [ref=e291]: Teaches boxing fundamentals from stance to combinations.
+            - list [ref=e292]:
+              - listitem [ref=e293]: USA Boxing L2
+              - listitem [ref=e294]: 10 yrs
+        - article [ref=e295]:
+          - generic [ref=e298]:
+            - heading "Priya Nair" [level=3] [ref=e299]
+            - paragraph [ref=e300]: Mobility & Recovery
+            - paragraph [ref=e301]: Leads guided mobility and recovery sessions.
+            - list [ref=e302]:
+              - listitem [ref=e303]: DPT
+              - listitem [ref=e304]: FRC
+    - region [ref=e308]:
+      - generic [ref=e309]:
+        - generic [ref=e310]:
+          - generic [ref=e311]:
+            - paragraph [ref=e312]: Membership
+            - heading "Simple pricing." [level=2] [ref=e313]
+          - paragraph [ref=e314]: No joining fee. No long contract. Freeze up to 2 months a year, cancel with 30 days notice.
+        - generic [ref=e315]:
+          - generic [ref=e316]:
+            - heading "New here? First week free." [level=3] [ref=e317]
+            - paragraph [ref=e318]: 7 days of unlimited classes, onboarding with a coach, no card required.
+          - link "Claim free week" [ref=e319] [cursor=pointer]:
+            - /url: "#trial"
+        - generic [ref=e320]:
+          - article [ref=e321]:
+            - heading "Drop-in" [level=3] [ref=e322]
+            - paragraph [ref=e323]: For travelers and occasional training.
+            - generic [ref=e324]:
+              - generic [ref=e325]: $32
+              - generic [ref=e326]: / class
+            - list [ref=e327]:
+              - listitem [ref=e328]: Any single class
+              - listitem [ref=e331]: Towel and locker
+              - listitem [ref=e334]: Valid for 30 days
+            - link "Buy drop-in" [ref=e337] [cursor=pointer]:
+              - /url: "#trial"
+          - article [ref=e338]:
+            - generic [ref=e339]: Most popular
+            - heading "Unlimited" [level=3] [ref=e340]
+            - paragraph [ref=e341]: For members training 3 or more times a week.
+            - generic [ref=e342]:
+              - generic [ref=e343]: $219
+              - generic [ref=e344]: / month
+            - list [ref=e345]:
+              - listitem [ref=e346]: Unlimited classes
+              - listitem [ref=e349]: Recovery suite access
+              - listitem [ref=e352]: Benchmark testing every 6 weeks
+              - listitem [ref=e355]: 2 guest passes per month
+            - link "Start free week" [ref=e358] [cursor=pointer]:
+              - /url: "#trial"
+          - article [ref=e359]:
+            - heading "8 Classes" [level=3] [ref=e360]
+            - paragraph [ref=e361]: For a steady twice-a-week routine.
+            - generic [ref=e362]:
+              - generic [ref=e363]: $169
+              - generic [ref=e364]: / month
+            - list [ref=e365]:
+              - listitem [ref=e366]: 8 classes per month
+              - listitem [ref=e369]: Unused classes roll over once
+              - listitem [ref=e372]: Benchmark testing every 6 weeks
+            - link "Choose 8 classes" [ref=e375] [cursor=pointer]:
+              - /url: "#trial"
+        - paragraph [ref=e376]: Student, first responder and corporate rates available. Ask at the front desk.
+    - region "Member testimonials and results" [ref=e380]:
+      - generic [ref=e381]:
+        - figure "Jordan M., member since 2023" [ref=e382]:
+          - img "5 out of 5 stars" [ref=e383]: ★★★★★
+          - blockquote [ref=e384]: “I tried four gyms in two years. FORMA is the first one where I never skip.”
+        - generic [ref=e386]:
+          - article [ref=e387]:
+            - generic [ref=e388]:
+              - generic [ref=e389]: +45 KG
+              - generic [ref=e390]: Deadlift in 6 months
+            - paragraph [ref=e391]: The 6-week blocks changed everything. I finally stopped guessing what to do and started seeing numbers move.
+            - generic [ref=e392]:
+              - generic [aria-hidden] [ref=e393]: A
+              - generic [ref=e394]:
+                - generic [ref=e395]: Alyssa T.
+                - text: Strength, 4x a week
+          - article [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]: 4x
+              - generic [ref=e399]: Average weekly attendance
+            - paragraph [ref=e400]: Small classes meant the coaches noticed when I was missing. That accountability is worth the membership alone.
+            - generic [ref=e401]:
+              - generic [aria-hidden] [ref=e402]: R
+              - generic [ref=e403]:
+                - generic [ref=e404]: Ryan C.
+                - text: Conditioning & Boxing
+          - article [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]: 12 wks
+              - generic [ref=e408]: Training streak
+            - paragraph [ref=e409]: Recovery sessions with Priya are the part of my week I protect first. I train harder now and feel better.
+            - generic [ref=e410]:
+              - generic [aria-hidden] [ref=e411]: M
+              - generic [ref=e412]:
+                - generic [ref=e413]: Monica L.
+                - text: Strength & Recovery
+        - generic [ref=e414]:
+          - generic [ref=e415]:
+            - term [ref=e416]: Google
+            - definition [ref=e417]: "4.9"
+          - generic [ref=e418]:
+            - term [ref=e419]: ClassPass
+            - definition [ref=e420]: "5.0"
+          - generic [ref=e421]:
+            - term [ref=e422]: Member retention
+            - definition [ref=e423]: 96%
+    - region [ref=e427]:
+      - generic [ref=e428]:
+        - generic [ref=e429]:
+          - paragraph [ref=e430]: FAQ
+          - heading "Before you come in." [level=2] [ref=e431]
+          - paragraph [ref=e432]: Still unsure? Message us and a coach will reply within the hour during opening times.
+          - link "Contact a coach" [ref=e433] [cursor=pointer]:
+            - /url: "#trial"
+        - generic [ref=e434]:
+          - heading [level=3] [ref=e436]:
+            - button "I have never trained before. Is FORMA right for me?" [ref=e437] [cursor=pointer]:
+              - text: I have never trained before. Is FORMA right for me?
+              - generic [aria-hidden] [ref=e438]: +
+          - heading [level=3] [ref=e440]:
+            - button "How does the free trial week work?" [ref=e441] [cursor=pointer]:
+              - text: How does the free trial week work?
+              - generic [aria-hidden] [ref=e442]: +
+          - heading [level=3] [ref=e444]:
+            - button "How big are the classes?" [ref=e445] [cursor=pointer]:
+              - text: How big are the classes?
+              - generic [aria-hidden] [ref=e446]: +
+          - heading [level=3] [ref=e448]:
+            - button "Can I freeze or cancel my membership?" [ref=e449] [cursor=pointer]:
+              - text: Can I freeze or cancel my membership?
+              - generic [aria-hidden] [ref=e450]: +
+          - heading [level=3] [ref=e452]:
+            - button "Is there parking?" [ref=e453] [cursor=pointer]:
+              - text: Is there parking?
+              - generic [aria-hidden] [ref=e454]: +
+    - region [ref=e458]:
+      - generic [ref=e459]:
+        - img "Members finishing a group class together" [ref=e460]
+        - generic [ref=e462]:
+          - paragraph [ref=e463]: Free trial week
+          - heading "Your first week is on us." [level=2] [ref=e464]
+          - paragraph [ref=e465]: Seven days, unlimited classes, a coach-led onboarding. If it is not for you, you walk away. No card, no catch.
+      - generic [ref=e467]:
+        - heading "Book your free week" [level=3] [ref=e468]
+        - paragraph [ref=e469]: A coach will text you within 2 hours to confirm your first class.
+        - generic [ref=e470]:
+          - generic [ref=e471]:
+            - generic [ref=e472]: First name
+            - textbox "First name" [ref=e473]
+          - generic [ref=e474]:
+            - generic [ref=e475]: Last name
+            - textbox "Last name" [ref=e476]
+        - generic [ref=e477]:
+          - generic [ref=e478]:
+            - generic [ref=e479]: Email
+            - textbox "Email" [ref=e480]
+          - generic [ref=e481]:
+            - generic [ref=e482]: Phone
+            - textbox "Phone" [ref=e483]
+        - generic [ref=e484]:
+          - generic [ref=e485]: Main goal
+          - combobox "Main goal" [ref=e486]:
+            - option "Select a goal" [selected]
+            - option "Get stronger"
+            - option "Lose fat"
+            - option "Learn boxing"
+        - group "Preferred time" [ref=e487]:
+          - generic [ref=e489]:
+            - generic [ref=e490]:
+              - radio "Morning 5:30 to 9 AM" [checked] [ref=e491] [cursor=pointer]
+              - generic [ref=e492]:
+                - text: Morning
+                - generic [ref=e493]: 5:30 to 9 AM
+            - generic [ref=e494]:
+              - radio "Midday 11 AM to 2 PM" [ref=e495] [cursor=pointer]
+              - generic [ref=e496]:
+                - text: Midday
+                - generic [ref=e497]: 11 AM to 2 PM
+            - generic [ref=e498]:
+              - radio "Evening 5 to 8 PM" [ref=e499] [cursor=pointer]
+              - generic [ref=e500]:
+                - text: Evening
+                - generic [ref=e501]: 5 to 8 PM
+        - generic [ref=e503]:
+          - text: Leave empty
+          - textbox [ref=e504]
+        - button "Claim my free week →" [ref=e505] [cursor=pointer]
+        - generic [ref=e506]:
+          - generic [ref=e507]: ✓ No card required
+          - generic [ref=e508]: ✓ No auto-renewal
+          - generic [ref=e509]: ✓ Cancel anytime
+  - contentinfo [ref=e510]:
+    - generic [ref=e511]:
+      - generic [ref=e512]:
+        - generic [ref=e513]:
+          - heading "Train smarter, weekly." [level=2] [ref=e514]
+          - paragraph [ref=e515]: "One email a week: programming notes, recovery tips and class updates. No spam."
+          - generic [ref=e516]:
+            - generic [ref=e517]: Email address
+            - textbox "Email address" [ref=e518]:
+              - /placeholder: Your email
+            - button "Join" [ref=e519] [cursor=pointer]
+            - status
+        - navigation "Footer club" [ref=e520]:
+          - paragraph [ref=e521]: Club
+          - list [ref=e522]:
+            - listitem [ref=e523]:
+              - link "Programs" [ref=e524] [cursor=pointer]:
+                - /url: http://forma.test/#programs
+            - listitem [ref=e525]:
+              - link "Schedule" [ref=e526] [cursor=pointer]:
+                - /url: http://forma.test/#schedule
+            - listitem [ref=e527]:
+              - link "Coaches" [ref=e528] [cursor=pointer]:
+                - /url: http://forma.test/#coaches
+            - listitem [ref=e529]:
+              - link "Membership" [ref=e530] [cursor=pointer]:
+                - /url: http://forma.test/#membership
+            - listitem [ref=e531]:
+              - link "FAQ" [ref=e532] [cursor=pointer]:
+                - /url: http://forma.test/#faq
+        - navigation "Footer members" [ref=e533]:
+          - paragraph [ref=e534]: Members
+          - list [ref=e535]:
+            - listitem [ref=e536]:
+              - link "Member login" [ref=e537] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e538]:
+              - link "Download app" [ref=e539] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e540]:
+              - link "Gift cards" [ref=e541] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e542]:
+              - link "Careers" [ref=e543] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e544]:
+          - paragraph [ref=e545]: Visit
+          - list [ref=e546]:
+            - listitem [ref=e547]:
+              - generic [ref=e548]: 1180 E 6th St, Austin, TX 78702
+            - listitem [ref=e549]:
+              - link "(512) 555 0147" [ref=e550] [cursor=pointer]:
+                - /url: tel:5125550147
+            - listitem [ref=e551]:
+              - link "hello@formaclub.co" [ref=e552] [cursor=pointer]:
+                - /url: mailto:hello@formaclub.co
+            - listitem [ref=e553]: Mon to Fri 5:30 AM to 10 PM
+            - listitem [ref=e554]: Sat to Sun 7 AM to 6 PM
+      - generic [ref=e555]:
+        - generic [ref=e556]: © 2026 FORMA Athletic Club. All rights reserved.
+        - generic [ref=e557]:
+          - link "Instagram" [ref=e558] [cursor=pointer]:
+            - /url: https://instagram.com/
+            - text: IG
+          - link "TikTok" [ref=e559] [cursor=pointer]:
+            - /url: https://tiktok.com/
+            - text: TT
+          - link "YouTube" [ref=e560] [cursor=pointer]:
+            - /url: https://youtube.com/
+            - text: YT
+    - generic [aria-hidden] [ref=e561]: FORMA
+  - generic [ref=e562]: mobile
+  - status [ref=e563]
