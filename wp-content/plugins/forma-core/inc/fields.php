@@ -132,7 +132,7 @@ add_action( 'acf/init', function () {
 	] ), 8 );
 
 	$g( 'coaches', '9 Coaches', array_merge( forma_head_fields( 'coaches' ), [
-		forma_f_img( 'coaches_image', 'Coach hero image (wide)' ),
+		forma_f_img( 'coaches_hero_image', 'Coach hero image (wide)' ),
 		forma_f_rep( 'coaches', 'Coaches', [
 			forma_s( 'text', 'name', 'Name' ),
 			forma_s( 'text', 'specialty', 'Specialty' ),

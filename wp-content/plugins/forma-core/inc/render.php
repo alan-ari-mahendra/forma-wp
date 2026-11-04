@@ -212,7 +212,7 @@ add_shortcode( 'forma_coaches', function () {
 	ob_start(); ?>
 	<section class="coaches dk" id="coaches" aria-labelledby="coaches-title">
 		<div class="coaches-hero">
-			<div class="coaches-media"><?php echo forma_img( forma_f( 'coaches_image' ), 'forma-hero', '', false, '100vw' ); // phpcs:ignore ?></div>
+			<div class="coaches-media"><?php echo forma_img( forma_f( 'coaches_hero_image' ), 'forma-hero', '', false, '100vw' ); // phpcs:ignore ?></div>
 			<div class="coaches-shade" aria-hidden="true"></div>
 			<div class="wrap coaches-copy">
 				<?php echo forma_eyebrow( forma_f( 'coaches_eyebrow' ) ); // phpcs:ignore ?>

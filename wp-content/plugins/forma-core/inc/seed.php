@@ -40,6 +40,7 @@ class Forma_Seed_Command {
 			'forma-coach-marcus-hale' => 'Portrait of coach Marcus Hale',
 			'forma-coach-dani-reyes' => 'Portrait of coach Dani Reyes',
 			'forma-coach-theo-grant' => 'Portrait of coach Theo Grant',
+			'forma-coach-priya-nair' => 'Portrait of coach Priya Nair',
 			'forma-trial-group-class' => 'Members finishing a group class together',
 		];
 		foreach ( $alts as $slug => $alt ) {
@@ -162,12 +163,12 @@ class Forma_Seed_Command {
 
 		$u( 'coaches_eyebrow', 'Coaching team' ); $u( 'coaches_heading', "Coaches who\nactually {mark}coach.{/mark}" );
 		$u( 'coaches_lead', 'Every FORMA coach holds a national certification, completes our in-house coaching program and keeps learning every quarter.' );
-		$u( 'coaches_image', $this->i( 'forma-coaches-hero-head-coach' ) );
+		$u( 'coaches_hero_image', $this->i( 'forma-coaches-hero-head-coach' ) );
 		$u( 'coaches', [
 			[ 'name' => 'Marcus Hale', 'specialty' => 'Head Coach, Strength', 'bio' => 'Builds the strength blocks and runs the coaching program.', 'image' => $this->i( 'forma-coach-marcus-hale' ), 'credentials' => 'NSCA-CSCS, 12 yrs' ],
 			[ 'name' => 'Dani Reyes', 'specialty' => 'Conditioning Lead', 'bio' => 'Designs interval sessions that scale to every fitness level.', 'image' => $this->i( 'forma-coach-dani-reyes' ), 'credentials' => 'NASM-CPT, 8 yrs' ],
 			[ 'name' => 'Theo Grant', 'specialty' => 'Boxing Coach', 'bio' => 'Teaches boxing fundamentals from stance to combinations.', 'image' => $this->i( 'forma-coach-theo-grant' ), 'credentials' => 'USA Boxing L2, 10 yrs' ],
-			[ 'name' => 'Priya Nair', 'specialty' => 'Mobility & Recovery', 'bio' => 'Leads guided mobility and recovery sessions.', 'image' => 0, 'credentials' => 'DPT, FRC' ],
+			[ 'name' => 'Priya Nair', 'specialty' => 'Mobility & Recovery', 'bio' => 'Leads guided mobility and recovery sessions.', 'image' => $this->i( 'forma-coach-priya-nair' ), 'credentials' => 'DPT, FRC' ],
 		] );
 
 		$u( 'pricing_eyebrow', 'Membership' ); $u( 'pricing_heading', "Simple\npricing." );
